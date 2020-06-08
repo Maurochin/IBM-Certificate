@@ -1,2 +1,2 @@
-# IBM-Certificate
+# Coursera_Capstone
 Coursera Certificate
